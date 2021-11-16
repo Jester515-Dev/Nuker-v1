@@ -1,5 +1,5 @@
-#Nuker-v1
-#A Discord Bot That Can Nuke Servers
+# Nuker-v1
+# A Discord Bot That Can Nuke Servers
 
 Setting Up:
   - Download Node.js v16 or Up
