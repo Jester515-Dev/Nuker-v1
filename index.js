@@ -5,6 +5,9 @@ require("dotenv").config();
 
 bot.login(process.env.TOKEN);
 
+bot.on('ready', () => {
+  console.log("Nuker-v1 Logged In As " + bot.user.tag);
+});
 bot.on('message', (message) => {
   let replies = [ 
     (`GET NUKED`),
